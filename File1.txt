@@ -4,3 +4,4 @@ change 2
 change 3
 Changes at remote
 change new
+one more for rebase
